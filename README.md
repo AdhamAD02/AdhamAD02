@@ -8,7 +8,7 @@
 - 📫 How to reach me **adhamadelmoh@gmail.com**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[www.linkedin.com/in/adhamad0](https://www.linkedin.com/in/adhamad0/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdhamAD02" height="30" width="40" /></a>
+  <a href="in/adhamad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdhamAD02" height="30" width="40" /></a>
   <a href="https://www.facebook.com/adham.adel.547/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdhamAD02&show_icons=true&locale=en&layout=compact" alt="AdhamAD02" /></p>
 
