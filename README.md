@@ -15,6 +15,6 @@
 <p align="left">
   <a href="in/adhamad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdhamAD02" height="30" width="40" /></a>
   <a href="https://www.facebook.com/adham.adel.547/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdhamAD02&show_icons=true&locale=en&layout=compact" alt="AdhamAD02" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdhamAD02&show_icons=true&locale=en" alt="AdhamAD02" /></p>
+<a href="http://www.github.com/AdhamAD02"><img src="https://github-readme-stats.vercel.app/api?username=AdhamAD02&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdhamAD02's GitHub stats" /></a>
 
+<a href="https://github.com/AdhamAD02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamAD02&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
