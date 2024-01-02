@@ -1,3 +1,4 @@
+ <img align="right" alt="GIF" src="https://github.com/AdhamAD02/AdhamAD02/blob/master/code.gif?raw=true" width="500" height="320" />
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <h1>I'm Adham Adel </h1>
 
 <h3 align="center">A Student at Faculty of Computers and AI - Cairo university.</h3>
