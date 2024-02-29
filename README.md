@@ -15,8 +15,12 @@
 
 <a href="https://github.com/AdhamAD02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamAD02&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="in/adhamad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdhamAD02" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/adham.adel.547/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adhamad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhamad0" height="30" width="40" /></a>
+<a href="https://kaggle.com/adhamad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adhamad0" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhamad" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/adham.adel.547/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+</p>
+
 
