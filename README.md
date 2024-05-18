@@ -3,7 +3,7 @@
 <h3 align="center">A Student at Faculty of Computers and AI - Cairo university.</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdhamAD02&label=Profile%20views&color=008080&style=flat" alt="AdhamAD02" /> </p>
 
-- 🌱 I’m currently learning ** Machine Learning, Algorithms **
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **adhamadelmoh@gmail.com**
 
