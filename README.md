@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <h1>I'm Adham Adel </h1>
+<h1 align="center">Hi , I'm Adham Adel Mohammed</h1>
 
 <h3 align="center">A Student at Faculty of Computers and AI - Cairo university.</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdhamAD02&label=Profile%20views&color=008080&style=flat" alt="AdhamAD02" /> </p>
